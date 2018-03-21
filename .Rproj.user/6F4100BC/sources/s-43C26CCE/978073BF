@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1521642766795.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2708856399",
+    "id" : "978073BF",
+    "lastKnownWriteTime" : 1521646020,
+    "last_content_update" : 1521646020561,
+    "path" : "~/Documents/S4G/source_site/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "136,0",
+        "scrollLine" : "124"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

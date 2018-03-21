@@ -1,13 +1,18 @@
-<!-- *** COPYRIGHT ***
-_________________________________________________________ -->
-
-<div id="copyright">
-    <div class="container">
-        <p>Stats4Good</p>
-  <p>Powered by: <a href="https://bookdown.org/yihui/blogdown/"> Blogdown</a>,
-  <a href="https://gohugo.io/"> Hugo</a> and <a href="http://bootstrapious.com/free-templates">Bootstrapious</a>.</p>
+{{ if .Site.Params.topbar.enable }}
+<div id="top">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-5">
+        {{ .Site.Params.topbar.text | safeHTML }}
+      </div>
+      <div class="col-xs-7">
+        <div class="social">
+          {{ range .Site.Menus.topbar.ByWeight }}
+          <a href="{{ .URL }}" target="_blank" style="opacity: 1;">{{ .Pre }}</a>
+          {{ end }}
+        </div>
+      </div>
     </div>
+  </div>
 </div>
-<!-- /#copyright -->
-
-<!-- *** COPYRIGHT END *** -->
+{{ end }}

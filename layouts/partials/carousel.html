@@ -10,11 +10,15 @@
                 <div class="item">
                     <div class="row">
                         <div class="col-sm-6 right">
+                          <a href="{{ .pagina }}">
                             <h1>{{ .title }}</h1>
                             {{ .description | safeHTML }}
+                          </a>
                         </div>
                         <div class="col-sm-6">
+                          <a href="{{ .pagina }}">
                             <img class="img-responsive" src="{{ .image }}" alt="">
+                          </a>
                         </div>
                     </div>
                 </div>

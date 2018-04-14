@@ -56,9 +56,15 @@ paginate = 15
     url = "https://github.com/stats4good"
     pre = "<i class='fa fa-2x fa-github'></i>"
 
-
 [[menu.topbar]]
     weight = 2
+    name = "Twitter"
+    url = "https://twitter.com/s4g_ufmg"
+    pre = "<i class='fa fa-2x fa-twitter'></i>"
+
+
+[[menu.topbar]]
+    weight = 3
     name = "Email"
     url = "mailto:stats4good@gmail.com"
     pre = "<i class='fa fa-2x fa-envelope'></i>"

@@ -4,4 +4,8 @@ output:
   blogdown::html_page
 ---
 
-# Integrantes!!!
+# Integrantes
+
+![](img/android-chrome-512x512.png)
+
+Em construçao.

@@ -6,6 +6,4 @@ output:
 
 # Integrantes
 
-![](img/android-chrome-512x512.png)
-
 Em construçao.

@@ -37,16 +37,10 @@ paginate = 15
     weight = 3
 
 [[menu.main]]
-    name = "Integrantes"
-    identifier = "integrantes"
-    url  = "/integrantes/"
-    weight = 4
-
-[[menu.main]]
     name = "Sobre"
     identifier = "sobre"
     url  = "/sobre"
-    weight = 5
+    weight = 4
 
 # Top bar social links menu
 

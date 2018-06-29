@@ -14,7 +14,7 @@ a ideia é que a plataforma traga de forma clara e objetiva onde e como é
 feito o gasto do governo federal. 
 
 Atualmente o projeto conta com um blog que pode ser acessado através
-deste [link](stats4good.github.io/veraz).
+deste [link](https://stats4good.github.io/veraz).
 
 # <font color="#a31aff", size = 5> GESEM </font>
 
@@ -30,4 +30,4 @@ subnotificação da quantidade de casos de estupro em mulheres no Brasil, assim 
 fatores culturais, demográficos, econômicos e sociais relacionados ao crime.
 
 Atualmente o projeto conta com um blog que pode ser acessado através
-deste [link](stats4good.github.io/gesem).
+deste [link](https://stats4good.github.io/gesem).
